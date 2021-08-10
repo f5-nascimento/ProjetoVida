@@ -13,8 +13,8 @@ print(nome + "\n" +
       tipo)
 
 #UTILIZANDO A FUNÇÃO TYPE
-print(type(nome), "\n",
-      type(dataNascimento), "\n",
-      type(peso), "\n",
-      type(altura), "\n",
-      type(tipo))
+# print(type(nome), "\n",
+#       type(dataNascimento), "\n",
+#       type(peso), "\n",
+#       type(altura), "\n",
+#       type(tipo))
