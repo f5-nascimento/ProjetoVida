@@ -18,7 +18,7 @@ print(nome + "\n" +
       str(altura) + "\n" +
       str(tipo))
 
-#FUNÇÃO TYPE
+#FUNÇÃO TYPE - TIPO DE DADOS
 print(type(nome), "\n",
       type(dataNascimento), "\n",
       type(peso), "\n",
